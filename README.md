@@ -2,9 +2,36 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Dashboards com Tableau
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 16 | 2024 | Professora Michelli Silva
 
-Turma Online On29 | Python | Semana 16 | 2024 | Professora [Michelli Silva](https://www.linkedin.com/in/michelli-silva/)
+Este repositório contém os exercícios desenvolvidos durante a **Semana 16** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Nesta semana, exploramos a criação de dashboards interativos com o objetivo de facilitar a visualização e a interpretação dos dados. Utilizamos a biblioteca Plotly para criar gráficos interativos e Dash para integrar esses gráficos em um painel completo, permitindo uma análise dinâmica e prática.
+
+## 🎯 Objetivos do projeto
+- Criar visualizações interativas com Plotly.
+- Construir um dashboard com Dash para exibir múltiplos gráficos e informações de forma organizada.
+- Integrar as funcionalidades interativas para permitir que os usuários explorem os dados de maneira eficiente.
+- Desenvolver habilidades para criar dashboards dinâmicos que possibilitem análises em tempo real.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- app.py: Código principal onde o dashboard é configurado, e as visualizações interativas são inseridas.
+- data.csv: Arquivo de dados utilizado para alimentar os gráficos do dashboard (caso aplicável).
+- requirements.txt: Arquivo contendo dependências necessárias para o projeto. 
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para construir o dashboard e realizar a análise dos dados.
+- Dash: Framework para construir dashboards interativos em Python.
+- Plotly: Biblioteca para criar gráficos interativos e visualizações de dados.
+- Pandas: Biblioteca para manipulação e análise de dados.
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
